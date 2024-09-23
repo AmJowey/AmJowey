@@ -13,7 +13,7 @@ I STAND for:
             - Inclusion
             - Equality             
 
-My interests: DevOps,Data engineering Data analysis, Nanotechnology and AI.
+My interests: DevOps,Data engineering, Data Science, Generative AI.
 
 I'm mostly writing Python, R, Typescript, Django, JavaScript some Shell.
 Oh and some HTML (its cool too).
