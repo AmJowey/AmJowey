@@ -6,7 +6,7 @@
 
 
 <!-- About -->
-I'm a DevOps and Data Engineer. I have a passion for clean data, sleek user-friendly designs, architectured, clean and maintainable code, working with other people on solving tough problems, and learning new things along the way.
+I am a DevOps and Data Engineer with a strong commitment to data integrity, user-friendly design, and the development of well-architected, maintainable code. I thrive in collaborative environments where I can work with others to tackle challenging problems, and I am dedicated to continuous learning and professional growth.
 
 I STAND for: 
             - Diversity
